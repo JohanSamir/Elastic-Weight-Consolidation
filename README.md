@@ -1,1 +1,1 @@
-# Elastic-Weight-Consolidation---TensorFlow
+# Elastic-Weight-Consolidation
